@@ -16,12 +16,15 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "test": "nodemon test.js"
+    "test": "nodemon ../../js_test_file.js"
   },
   "bin": {
     "tmnger": "./index.js"
   },
   "devDependencies": {
-    "nodemon": "^1.14.10"
+    "nodemon": "^3.1.14"
+  },
+  "allowScripts": {
+    "nodemon@1.19.4": true
   }
 }
