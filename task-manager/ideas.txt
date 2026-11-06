@@ -1,5 +1,0 @@
-Enable task tracking with search and edit file once task is done!!
-Task_states = ["Pending", "Done"] //Available i.e
-Write all tasks in one file for a week (7days). Then create a new file.
-Able to perform garbage cleaning: - Get file size and remove unnecessary/old(more than 3 months) files.
-Summary per week/month/year = Rate of productivity.
